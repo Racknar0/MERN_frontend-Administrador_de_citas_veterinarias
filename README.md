@@ -37,7 +37,7 @@
 
 <h3>📄 Preview: </h3>
 
-<img src="./preview.GIF" alt="Texto alternativo" width="400px">
+<img src="./preview.gif" alt="Texto alternativo" width="400px">
 
 <img src="https://raw.githubusercontent.com/Racknar0/logos/master/coleccion-logos/rainbow.png" alt="css3" width="100%" height="6" />
 
